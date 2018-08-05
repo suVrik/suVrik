@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+	color: #FFF;
+	font-size: 18pt;
+	background: #24252B url("background.png");
+	font-family: 'Rajdhani', sans-serif;
+}
+
+a {
+	color: #95A6FF;
+	text-decoration: none;
+	display: inline-block;
+}
+
+b, h1, h2 {
+	font-weight: 500;
+}

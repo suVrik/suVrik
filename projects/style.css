@@ -1,0 +1,13 @@
+#solid {
+	width: 900px;
+	margin: 0 auto;
+	background-color: #24252B;
+}
+
+#game_window {
+	background-color: #24252B;
+	position: absolute;
+	padding: 20px;
+	top: 50%;
+	left: 50%;
+}

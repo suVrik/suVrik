@@ -1,0 +1,77 @@
+#solid {
+	width: 520px;
+	margin: 0 auto;
+	background-color: #24252B;
+}
+
+#container {
+	width: 480px;
+	margin: 0 auto;
+}
+
+#header {
+	font-size: 20pt;
+	text-align: justify;
+}
+
+#header h1 {
+	padding-top: 32px;
+	margin: 0;
+}
+
+#header b {
+	color: #a03641;
+}
+
+.media {
+	margin-left: -40px;
+}
+
+.media_description {
+	font-size: 18pt;
+	color: #babab6;
+	text-align: justify;
+}
+
+#recognition h2 {
+	margin-bottom: -16px;
+}
+
+#contact {
+	margin: 0 auto;
+	padding: 16px 0;
+	width: 430px;
+	transform: scale(0.75);
+}
+
+#contact a {
+	display: inline-block;
+	width: 64px;
+	height: 64px;
+	background: url("social.png");
+	margin: 0 8px;
+}
+
+#contact a:hover {
+	background-position-y: 64px;
+}
+
+#contact a#vk {
+	background-position-x: 0;
+}
+
+#contact a#twitter {
+	background-position-x: -128px;
+}
+
+#contact a#facebook {
+	background-position-x: -64px;
+}
+
+#contact a#email {
+	background-position-x: -192px;
+}
+
+#contact a#newgrounds {
+	background-position-x: -256px;
+}
