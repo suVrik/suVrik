@@ -2,10 +2,10 @@ Making games was my passion for as long as I can remember. Click [here](https://
 
 In 2018 I worked a few months in [Wargaming](https://wargaming.com/en/) on [World of Tanks Blitz](https://wotblitz.com/) game engine and another unannounced project.
 
-Since 2018 I worked at [Press Fire Games](https://www.pressfire.games/) on [Battle Prime](https://www.battleprime.com/) and another unannounced project. Click [here](https://www.youtube.com/watch?v=sKov7u1D5Z0) to see a Battle Prime video.
+Since 2018 I worked at [Press Fire Games](https://www.pressfire.games/) on [Battle Prime](https://www.battleprime.com/) and another unannounced project. Click [here](https://www.youtube.com/watch?v=p1SMoMAwUkE) to see a Battle Prime video.
 
 Original Projects:
-* KURWA;
+* [KURWA](https://github.com/suVrik/KURWA) — the best game engine I've done so far;
 * [Acceleration Structure Research](https://github.com/suVrik/acceleration_structure_benchmark) — research I've done for acceleration structures in KURWA;
 * [Particle System Research](https://github.com/suVrik/particle_system_benchmark) — research I've done for particle systems in KURWA;
 * [Filesystem Research](https://github.com/suVrik/steaming_benchmark) — research I've done for texture streaming in KURWA;
