@@ -19,4 +19,5 @@ Original Projects:
 * [AABBox Layout Research](https://github.com/suVrik/aabbox_benchmark) — research on which AABBox layout is more optimal: min/max or center/extent;
 * [Allocators](https://github.com/suVrik/allocator_benchmark) — benchmark of malloc, buddy and pool allocators;
 * [Codeforces](https://github.com/suVrik/codeforces) — some data structures and algorithms I use for competitive programming.
- 
+
+These are the projects I've done in my spare time only in the past 2 years.
