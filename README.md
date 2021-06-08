@@ -1,6 +1,6 @@
 Making games was my passion for as long as I can remember. Click [here](https://www.youtube.com/watch?v=sKov7u1D5Z0) to see a video compilation of some of the indie games I made.
 
-In 2018 I worked a few months in [Wargaming](https://wargaming.com/en/) on [World of Tanks Blitz](https://wotblitz.com/) game engine and another unannounced project.
+In 2018 I worked a few months at [Wargaming](https://wargaming.com/en/) on [World of Tanks Blitz](https://wotblitz.com/) game engine and another unannounced project.
 
 Since 2018 I worked at [Press Fire Games](https://www.pressfire.games/) on [Battle Prime](https://www.battleprime.com/) and another unannounced project. Click [here](https://www.youtube.com/watch?v=p1SMoMAwUkE) to see a Battle Prime video.
 
