@@ -12,7 +12,7 @@ Original Projects:
 * [Hooker Galore](https://github.com/suVrik/hooker.galore) — an experimental game engine in which everything works through ECS;
 * [Texture Compiler](https://github.com/suVrik/texture.compiler) — texture converter for Hooker Galore. Custom format/mipmap strategies for different types of textures;
 * [You Broke The Game](https://github.com/suVrik/ld45) — Ludum Dare 45 submission made together with [Oleg Klishin](https://olegklishin.portfoliobox.net/). Play [here](https://www.newgrounds.com/portal/view/740567);
-* [Untitled Platformer](https://github.com/suVrik/ld47) — Ludum Dare 47 attempt made together with [Oleg Klishin](https://olegklishin.portfoliobox.net/). We were not satisfied with the result, so we didn't finish it. You can find some GIFs and a play link in the repo;
+* [Untitled Platformer](https://github.com/suVrik/ld47) — Ludum Dare 47 attempt made together with [Oleg Klishin](https://olegklishin.portfoliobox.net/). We were not satisfied with the result, so we didn't finish it. You can find screenshot and a play link in the repo;
 * [Ghostlunky](https://github.com/suVrik/ghostlunky) — a tool that allows you to play [Spelunky](https://store.steampowered.com/app/239350/Spelunky/) on custom seed. Another reverse engineering feature I'm proud of is "Enable own camera" for [Frozlunky](https://github.com/sashavol/Frozlunky);
 * [Path Tracer](https://github.com/suVrik/path_tracer) — a path tracer insipired by [Physically Based Rendering: From Theory to Implementation](https://www.pbr-book.org/3ed-2018/contents);
 * [Software Rasterizer](https://github.com/suVrik/software_rasterizer) — software rasterization studies;
