@@ -4,8 +4,10 @@ In 2018 I worked a few months at [Wargaming](https://wargaming.com/en/) on [Worl
 
 Since 2018 I worked at [Press Fire Games](https://www.pressfire.games/) on [Battle Prime](https://www.battleprime.com/), its engine, and another unannounced project. Click [here](https://www.youtube.com/watch?v=p1SMoMAwUkE) to see a Battle Prime video.
 
+In 2021 I made a game engine tech demo to improve my rendering skills. Click [here](https://www.youtube.com/watch?v=7YzHbVlsqNA) to see a showreel.
+
 Original Projects:
-* [KURWA](https://github.com/suVrik/KURWA) — the best game engine I've done so far;
+* [KURWA](https://github.com/suVrik/KURWA) — a game engine tech demo I made to gain proficient understanding in common rendering techniques;
 * [Acceleration Structure Research](https://github.com/suVrik/acceleration_structure_benchmark) — research I've done for acceleration structures in KURWA;
 * [Particle System Research](https://github.com/suVrik/particle_system_benchmark) — research I've done for particle systems in KURWA;
 * [Filesystem Research](https://github.com/suVrik/steaming_benchmark) — research I've done for texture streaming in KURWA;
