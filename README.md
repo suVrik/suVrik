@@ -7,10 +7,10 @@ Since 2018 I worked at [Press Fire Games](https://www.pressfire.games/) on [Batt
 In 2021 I made a game engine tech demo to improve my rendering skills. Click [here](https://www.youtube.com/watch?v=7YzHbVlsqNA) to see a showreel.
 
 Original Projects:
-* [KURWA](https://github.com/suVrik/KURWA) — a game engine tech demo I made to gain proficient understanding in common rendering techniques;
-* [Acceleration Structure Research](https://github.com/suVrik/acceleration_structure_benchmark) — research I've done for acceleration structures in KURWA;
-* [Particle System Research](https://github.com/suVrik/particle_system_benchmark) — research I've done for particle systems in KURWA;
-* [Filesystem Research](https://github.com/suVrik/steaming_benchmark) — research I've done for texture streaming in KURWA;
+* [KWA](https://github.com/suVrik/KWA) — a game engine tech demo I made to gain proficient understanding in common rendering techniques;
+* [Acceleration Structure Research](https://github.com/suVrik/acceleration_structure_benchmark) — research I've done for acceleration structures in KWA;
+* [Particle System Research](https://github.com/suVrik/particle_system_benchmark) — research I've done for particle systems in KWA;
+* [Filesystem Research](https://github.com/suVrik/steaming_benchmark) — research I've done for texture streaming in KWA;
 * [Hooker Galore](https://github.com/suVrik/hooker.galore) — an experimental game engine in which everything works through ECS;
 * [Texture Compiler](https://github.com/suVrik/texture.compiler) — texture converter for Hooker Galore. Custom format/mipmap strategies for different types of textures;
 * [You Broke The Game](https://github.com/suVrik/ld45) — Ludum Dare 45 submission made together with [Oleg Klishin](https://olegklishin.portfoliobox.net/). Play [here](https://www.newgrounds.com/portal/view/740567);
