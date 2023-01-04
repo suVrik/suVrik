@@ -6,6 +6,8 @@ Since 2018 I worked at [Press Fire Games](https://www.pressfire.games/) on [Batt
 
 In 2021 I made a game engine tech demo to improve my rendering skills. Click [here](https://www.youtube.com/watch?v=7YzHbVlsqNA) to see a showreel.
 
+Later in 2021 I joined CD PROJEKT RED to work on the new [Witcher saga](https://www.thewitcher.com/en/news/42167/a-new-saga-begins).
+
 Original Projects:
 * [KWA](https://github.com/suVrik/KWA) — a game engine tech demo I made to gain proficient understanding in common rendering techniques;
 * [Acceleration Structure Research](https://github.com/suVrik/acceleration_structure_benchmark) — research I've done for acceleration structures in KWA;
